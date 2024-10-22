@@ -1,3 +1,8 @@
+body {
+  background-color: #ff9cfc;
+}
+
+
 
 #main-navbar {
   background-color: blue;
@@ -57,7 +62,7 @@
 
 #sidebar ul li a {
   display: block;
-  padding: 15px 0;
+   padding: 15px 0;
   color: #fff;
   text-decoration: none;
 }
@@ -65,3 +70,4 @@
 #sidebar ul li a:hover {
   background-color: #000;
 }
+  
