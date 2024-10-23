@@ -1,8 +1,6 @@
 body {
-  background-color: #ff9cfc;
+  background-color: #fff;
 }
-
-
 
 #main-navbar {
   background-color: blue;
@@ -70,4 +68,6 @@ body {
 #sidebar ul li a:hover {
   background-color: #000;
 }
+
+
   
